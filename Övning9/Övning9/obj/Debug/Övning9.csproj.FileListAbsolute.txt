@@ -1,0 +1,7 @@
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\bin\Debug\Övning9.exe.config
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\bin\Debug\Övning9.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\bin\Debug\Övning9.pdb
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\obj\Debug\Övning9.csproj.AssemblyReference.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\obj\Debug\Övning9.csproj.CoreCompileInputs.cache
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\obj\Debug\Övning9.exe
+C:\Users\Arvid.nilsson5\Desktop\Prog2\Övningar\Vecka5\Övning9\Övning9\obj\Debug\Övning9.pdb
